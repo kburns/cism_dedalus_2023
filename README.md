@@ -1,6 +1,8 @@
-# CISM Dedalus 2023
+# Practical sessions with Dedalus (CISM 2023)
 
-This repository contains practical lectures on the Dedalus package for the CISM school on "Fluid Mechanics of Planets and Stars" taking place April 17-21, 2023.
+This repository contains material for the practical numerical sessions for the 2023 CISM school on "Fluid Mechanics of Planets and Stars".
+These materials explore the use of the open-source PDE solver [Dedalus](https://dedalus-project.org) for solving problems related to geophysical and astrophysical fluid dynamics.
+You can view the notebooks online at the provided HTML links, open and execute them via Google Colab, or download them to run locally after [installing Dedalus on your computer](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html).
 
 * Lecture 1: Introduction to spectral methods & Dedalus [[slides]](https://raw.githubusercontent.com/kburns/cism_dedalus_2023/main/lecture_1_compressed.pdf)
 * Lecture 2: Introduction to Dedalus -- Burgers & KdV Equations [[notebook]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_2_intro_to_dedalus.ipynb)
