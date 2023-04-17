@@ -99,7 +99,7 @@ solver = problem.build_solver(timestepper)
 solver.stop_sim_time = stop_sim_time
 
 # Analysis
-snapshots = solver.evaluator.add_file_handler('snapshots', sim_dt=snapshots_dt, max_writes=10, mode='overwrite')
+snapshots = solver.evaluator.add_file_handler('snapshots', sim_dt=snapshots_dt, max_writes=1, mode='overwrite')
 snapshots.add_task(psi, name='psi')
 snapshots.add_task(w, name='vorticity')
 
