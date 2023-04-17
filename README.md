@@ -7,6 +7,7 @@ You can view the notebooks online at the provided HTML links, open and execute t
 * Lecture 1: Introduction to Spectral Methods & Dedalus [[slides]](https://raw.githubusercontent.com/kburns/cism_dedalus_2023/main/lecture_1_compressed.pdf)
 * Lecture 2: Basic Dedalus API -- Burgers & KdV Equations [[notebook]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_2_intro_to_dedalus.ipynb)
 * Lecture 3: Forcing & Analysis -- 2D Turbulence
+(https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_3_2d_turbulence.ipynb)
 * Lecture 4: Eigenvalue Problems -- Shallow Water & Shear Instability
 * Lecture 5: Boundaries & Tau Terms -- Rayleigh-Benard & Spherical Convection
 
