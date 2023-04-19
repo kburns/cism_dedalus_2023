@@ -11,6 +11,7 @@ You can view the notebooks online at the provided HTML links, open and execute t
 * Lecture 3: Forcing & Analysis -- 2D Turbulence
   [[notebook]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_3_2d_turbulence.ipynb)
 * Lecture 4: Eigenvalue Problems -- Shallow Water & Shear Instability
+  [[notebook]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_4_shallow_water_evp.ipynb)
 * Lecture 5: Boundaries & Tau Terms -- Rayleigh-Benard & Spherical Convection
 
 [[view repository]](https://github.com/kburns/cism_dedalus_2023) 
