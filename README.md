@@ -3,7 +3,7 @@
 [Dedalus](https://dedalus-project.org) is an open-source PDE solver based on modern spectral methods.
 It provides a high-level Python interface for creating and solving global spectral discretizations of many PDEs.
 It is primarily used for computational fluid dynamics (CFD), but can solve many other types of equations as well.
-This repository gathers various tutorials and resources for learning how to use Dedalus for wide varieties of applications.
+This repository gathers various tutorials and resources for learning how to use Dedalus for various applications.
 
 ## Tutorial notebooks
 
@@ -13,7 +13,7 @@ The examples are designed to run nearly instantly on a single core / laptop.
 
 ## Example scripts
 
-The main code documentation also contains a [range of example scripts](https://dedalus-project.readthedocs.io/en/latest/pages/tutorials.html#example-scripts) showing the typical usage of Dedalus in an HPC environment (e.g. executing model scripts rather than notebooks).
+The main code documentation also contains a [range of example scripts](https://dedalus-project.readthedocs.io/en/latest/pages/tutorials.html#example-scripts) showing the typical usage of Dedalus in an HPC environment (i.e. executing model scripts rather than notebooks).
 These examples are designed to run within several minutes on a single core / laptop, but can be easily scaled up to production sized simulations on a cluster.
 Many users begin implementing their own models based on one of these scripts.
 
