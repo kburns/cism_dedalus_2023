@@ -1,7 +1,26 @@
-# Practical sessions with Dedalus (CISM 2023)
+# Dedalus School
 
-This repository contains material for the practical numerical sessions for the 2023 CISM school on "Fluid Mechanics of Planets and Stars".
-These materials explore the use of the open-source PDE solver [Dedalus](https://dedalus-project.org) for solving problems related to geophysical and astrophysical fluid dynamics.
+[Dedalus](https://dedalus-project.org) is an open-source PDE solver based on modern spectral methods.
+It provides a high-level Python interface for creating and solving global spectral discretizations of many PDEs.
+It is primarily used for computational fluid dynamics (CFD), but can solve many other types of equations as well.
+This repository gathers various tutorials and resources for learning how to use Dedalus for wide varieties of applications.
+
+## Tutorial notebooks
+
+The recommended starting point for learning Dedalus is to go through the [official tutorial notebooks](https://dedalus-project.readthedocs.io/en/latest/pages/tutorials.html#tutorial-notebooks) in the main code documentation.
+These document many of the features of the code and explain the class structure and possible workflows using Dedalus objects.
+The examples are designed to run nearly instantly on a single core / laptop.
+
+## Example scripts
+
+The main code documentation also contains a [range of example scripts](https://dedalus-project.readthedocs.io/en/latest/pages/tutorials.html#example-scripts) showing the typical usage of Dedalus in an HPC environment (e.g. executing model scripts rather than notebooks).
+These examples are designed to run within several minutes on a single core / laptop, but can be easily scaled up to production sized simulations on a cluster.
+Many users begin implementing their own models based on one of these scripts.
+
+## Practical sessions for GAFD
+
+The following material was originally developed for the practical numerical sessions for the 2023 CISM school on "Fluid Mechanics of Planets and Stars".
+These lectures explore how to get started applying Dedalus to problems related to geophysical and astrophysical fluid dynamics.
 You can view the notebooks online at the provided HTML links, open and execute them via Google Colab, or download them to run locally after [installing Dedalus on your computer](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html).
 
 * Lecture 1: Introduction to Spectral Methods & Dedalus
