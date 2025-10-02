@@ -8,8 +8,8 @@ This repository gathers tutorials and resources for learning how to use Dedalus 
 ## Tutorial notebooks
 
 The recommended starting point for learning Dedalus is to go through the [official tutorial notebooks](https://dedalus-project.readthedocs.io/en/latest/pages/tutorials.html#tutorial-notebooks) in the main code documentation.
-These document many of the features of the code and explain the class structure and possible workflows using Dedalus objects.
-The examples are designed to run nearly instantly on a single core / laptop.
+These describe many of the features of the code, explain the basic class structure, and show typical ways of interacting with Dedalus objects.
+The examples are designed to run quickly on a single core / laptop.
 
 ## Example scripts
 
@@ -19,9 +19,9 @@ Many users begin implementing their own models based on one of these scripts.
 
 ## Practical sessions for GAFD
 
-The following material was originally developed for the practical numerical sessions for the 2023 CISM school on "Fluid Mechanics of Planets and Stars".
+The following material was originally developed for the practical numerical sessions for the [2023 CISM school on "Fluid Mechanics of Planets and Stars"](https://cism.it/en/activities/courses/C2301/).
 These lectures explore how to get started applying Dedalus to problems related to geophysical and astrophysical fluid dynamics.
-You can open and execute the notebooks online via Google Colab, or download them to run locally after [installing Dedalus on your computer](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html).
+You can open and execute the notebooks online via Google Colab, or download them to run locally after [installing Dedalus](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html) on your computer.
 
 * Lecture 1: Introduction to Spectral Methods & Dedalus
   [[slides]](https://raw.githubusercontent.com/kburns/cism_dedalus_2023/main/lecture_1_compressed.pdf)
