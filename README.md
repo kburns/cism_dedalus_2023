@@ -21,21 +21,17 @@ Many users begin implementing their own models based on one of these scripts.
 
 The following material was originally developed for the practical numerical sessions for the 2023 CISM school on "Fluid Mechanics of Planets and Stars".
 These lectures explore how to get started applying Dedalus to problems related to geophysical and astrophysical fluid dynamics.
-You can view the notebooks online at the provided HTML links, open and execute them via Google Colab, or download them to run locally after [installing Dedalus on your computer](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html).
+You can open and execute the notebooks online via Google Colab, or download them to run locally after [installing Dedalus on your computer](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html).
 
 * Lecture 1: Introduction to Spectral Methods & Dedalus
   [[slides]](https://raw.githubusercontent.com/kburns/cism_dedalus_2023/main/lecture_1_compressed.pdf)
 * Lecture 2: Basic Dedalus API -- Burgers & KdV Equations
-  [[nbviewer]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_2_intro_to_dedalus.ipynb)
   [[colab]](https://colab.research.google.com/github/kburns/cism_dedalus_2023/blob/main/lecture_2_intro_to_dedalus.ipynb)
 * Lecture 3: Forcing & Analysis -- 2D Turbulence
-  [[nbviewer]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_3_2d_turbulence.ipynb)
   [[colab]](https://colab.research.google.com/github/kburns/cism_dedalus_2023/blob/main/lecture_3_2d_turbulence.ipynb)
 * Lecture 4: Eigenvalue Problems -- Shallow Water & Shear Instability
-  [[nbviewer]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_4_shallow_water_evp.ipynb)
   [[colab]](https://colab.research.google.com/github/kburns/cism_dedalus_2023/blob/main/lecture_4_shallow_water_evp.ipynb)
 * Lecture 5: Boundaries & Tau Terms -- Rayleigh-Benard & Spherical Convection
-  [[nbviewer]](https://nbviewer.org/github/kburns/cism_dedalus_2023/blob/main/lecture_5_convection.ipynb)
   [[colab]](https://colab.research.google.com/github/kburns/cism_dedalus_2023/blob/main/lecture_5_convection.ipynb)
 
 [[view repository]](https://github.com/kburns/cism_dedalus_2023)
