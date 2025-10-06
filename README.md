@@ -1,4 +1,8 @@
-# Learning Dedalus
+<p align="center">
+  <img height=150 src="dedalus_logo.png"/>
+</p>
+
+# Learning to use Dedalus
 
 [Dedalus](https://dedalus-project.org) is an open-source PDE solver based on modern spectral methods.
 It provides a high-level Python interface for creating and solving global spectral discretizations of many PDEs.
